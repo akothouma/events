@@ -10,19 +10,19 @@
     "Date":"November 15,2021",
     "time" :"9:00 PM GMT+3",
     "description":"featuring dances,party anthems and nolstagic songs from the best years of music",
-    "image":"dummy image"
+    "image":"/images/event1.jpg"
 },
 {
     "id":2,
     "name": "Dance festivals femidevs",
-    "slug":"dance -festivals-femidevs",
+    "slug":"dance 678 -festivals-femidevs",
     "venue": "Rackjacks",
     "adress": "1100, 23th Avenue,Kisumu",
     "performers":"DJ Mongina",
     "Date":"November 20,2021",
     "time" :"9:00 PM GMT+3",
     "description":"featuring dances,party anthems and nolstagic songs from the best years of music",
-    "image":"dummy image"
+    "image":"/images/event2.jpg"
 },
 
 {
@@ -35,6 +35,6 @@
     "Date":"November 20,2021",
     "time" :"9:00 PM GMT+3",
     "description":"featuring dances,party anthems and nolstagic songs from the best years of music",
-    "image":"dummy image"
+    "image":"/images/event3.jpg"
 }]
 }
