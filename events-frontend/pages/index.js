@@ -1,5 +1,6 @@
-import Link from "next/link";
+
 import Layout from "../Components/Layout";
+import EventItem from "../Components/EventsItems";
 import {API_URL} from "../config/index";
 
 export default function AboutPage(props){
@@ -8,9 +9,9 @@ export default function AboutPage(props){
         <Layout>
             <h1>Home Page</h1>
             {props.events.map((event) => {
-                return <h3>{event.name}</h3>
+                return <EventItem key={event.id} eventData={event}/>
             })}
-            <Link href="/about">About</Link>
+        
         </Layout>
     );
 

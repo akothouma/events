@@ -1,4 +1,4 @@
-const { events } = require("./data.json");
+  const { events } = require("./data.json");
 
 export default function handler(req, res) {
     const eventsData= events.filter((events)=>events.slug===req.query.slug);
@@ -9,3 +9,4 @@ export default function handler(req, res) {
     res.status(405).json({ message: `Method ${req.method} is not allowed` });
   }
 }
+ 

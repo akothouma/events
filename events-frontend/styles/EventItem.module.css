@@ -1,0 +1,22 @@
+.event{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+    padding:13px;
+    box-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
+
+.img{
+    flex:1;
+    margin: 10px;
+}
+.info{
+    flex:2;
+}
+.link{
+    padding: 10px;
+    background-color: orange;
+    color:white;
+    border-bottom-left-radius: 10px;
+}

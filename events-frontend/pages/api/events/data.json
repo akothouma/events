@@ -14,7 +14,7 @@
 },
 {
     "id":2,
-    "name": "Throwback fridays with femidevs band",
+    "name": "Dance festivals femidevs",
     "slug":"dance -festivals-femidevs",
     "venue": "Rackjacks",
     "adress": "1100, 23th Avenue,Kisumu",
@@ -23,8 +23,18 @@
     "time" :"9:00 PM GMT+3",
     "description":"featuring dances,party anthems and nolstagic songs from the best years of music",
     "image":"dummy image"
-}
-    
-    
-]
+},
+
+{
+    "id":3,
+    "name": "Dance festivals extension",
+    "slug":"Music-festivals-femidevs",
+    "venue": "Rackjacks",
+    "adress": "1100, 23th Avenue,Kisumu",
+    "performers":"DJ Mongina",
+    "Date":"November 20,2021",
+    "time" :"9:00 PM GMT+3",
+    "description":"featuring dances,party anthems and nolstagic songs from the best years of music",
+    "image":"dummy image"
+}]
 }

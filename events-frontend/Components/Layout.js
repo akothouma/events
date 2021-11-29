@@ -6,7 +6,7 @@ import styles from "../styles/Layout.module.css";
 import ShowCase from "./ShowCase"
 
 export default function Layout({ title, keywords, description, children }) {
-  const router=useRouter();
+  const router=useRouter(); 
   return (
     <div>
       <Head>
